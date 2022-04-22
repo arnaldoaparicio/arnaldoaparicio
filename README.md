@@ -1,6 +1,8 @@
 
 
-<p # Hi there 👋 I'm Arnaldo Aparicio style="text-align: center;">
+# Hi there 👋 I'm Arnaldo Aparicio
+
+
 
 <!--
 **arnaldoaparicio/arnaldoaparicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
