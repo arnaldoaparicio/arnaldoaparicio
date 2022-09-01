@@ -4,7 +4,7 @@
 
 ## A curious software developer, willing to tackle the unknown.
 
-- 🔭 I’m currently working on the untitled MUGEN database ([Rails Frontend](https://github.com/arnaldoaparicio/mugen_db_fe) + [Rails API backend](https://github.com/arnaldoaparicio/mugen_db))
+- 🔭 I’m currently working on my personal project, untitled MUGEN database ([Rails Frontend](https://github.com/arnaldoaparicio/mugen_db_fe) + [Rails API backend](https://github.com/arnaldoaparicio/mugen_db))
 
 <!--
 **arnaldoaparicio/arnaldoaparicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
