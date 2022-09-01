@@ -1,6 +1,6 @@
 
 
-<center># Hi there 👋 I'm Arnaldo Aparicio</center>
+# <center>Hi there 👋 I'm Arnaldo Aparicio</center>
 
 ## A curious software developer, willing to tackle the unknown.
 
