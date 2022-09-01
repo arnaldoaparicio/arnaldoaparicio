@@ -2,7 +2,7 @@
 
 # <div align="center">Hi there 👋 I'm Arnaldo Aparicio</div>
 
-## A curious software developer, willing to tackle the unknown.
+## <div alighn="center">A curious software developer, willing to tackle the unknown.</div>
 
 - 🔭 I’m currently working on my personal project, untitled MUGEN database ([Rails Frontend](https://github.com/arnaldoaparicio/mugen_db_fe) + [Rails API backend](https://github.com/arnaldoaparicio/mugen_db))
 - 🌱 I’m currently learning Amazon S3 and GraphQL.
