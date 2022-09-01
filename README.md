@@ -2,6 +2,8 @@
 
 # Hi there 👋 I'm Arnaldo Aparicio
 
+## A curious software developer, willing to tackle the unknown.
+
 
 
 <!--
