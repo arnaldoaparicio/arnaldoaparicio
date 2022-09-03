@@ -5,7 +5,8 @@
 ### <div align="center">A curious software developer, willing to tackle the unknown.</div>
 
 - 🔭 I’m currently working on my personal project, untitled MUGEN database ([Rails Frontend](https://github.com/arnaldoaparicio/mugen_db_fe) + [Rails API backend](https://github.com/arnaldoaparicio/mugen_db))
-- 🌱 I’m currently learning Amazon S3 and GraphQL.
+- 🌱 I’m working with Ruby, Rails, JSON API, PostgreSQL, SQL, and more! 
+- I'm currently learning Amazon S3 and GraphQL.
 
 ### Connect with me:
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio-b25913224/)
