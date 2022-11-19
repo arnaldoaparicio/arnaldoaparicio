@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my personal project, untitled MUGEN database ([Rails Frontend](https://github.com/arnaldoaparicio/mugen_db_fe) + [Rails API backend](https://github.com/arnaldoaparicio/mugen_db))
 - 🌱 I’m working with Ruby, Rails, JSON API, PostgreSQL, SQL, and more! 
 - :cyclone: I'm currently learning Amazon S3 and GraphQL.
-- ✨ I'm currently bracing myself to install Gentoo 👀
+- ✨ Ask me about my experience installing Gentoo Linux on my laptop 👀
 
 ### Connect with me:
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio-b25913224/)
