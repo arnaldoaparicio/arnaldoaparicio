@@ -8,7 +8,7 @@
 - 🌱 I’m working with Ruby, Rails, JSON API, PostgreSQL, SQL, and more! 
 - :cyclone: I'm currently learning Amazon S3 and GraphQL.
 - ✨ Ask me about my experience installing Gentoo Linux on my laptop 👀 ![Gentoo]()
-- <img src="https://github.com/favicon.ico](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" width="48">
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" width="48">
 
 ### Connect with me:
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio-b25913224/)
