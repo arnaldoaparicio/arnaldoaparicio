@@ -9,6 +9,7 @@
 - :cyclone: I'm currently learning Amazon S3 and GraphQL.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" width="18"> Ask me about my experience installing Gentoo Linux on my laptop 👀 
 
+- Visit my [personal site](https://arnaldoaparicio.github.io/) to see some of my projects in detail and some of my ramblings.
 
 ### Connect with me:
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio-b25913224/)
