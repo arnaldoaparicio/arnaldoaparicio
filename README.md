@@ -8,7 +8,9 @@
 - 🌱 I’m working with Ruby, Rails, JSON API, PostgreSQL, SQL, and more!
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" width="18"> Ask me about my experience installing Gentoo Linux on my laptop 👀 
 
-- Visit my [personal site](https://arnaldoaparicio.github.io/) to see some of my projects in detail and some of my ramblings.
+- Check out my blog posts: [GitHub Actions Walkthrough](https://arnaldoaparicio.github.io/github-actions-p1/) | [Useful fly.io tips](https://arnaldoaparicio.github.io/things-fly/) | [My initial experience with Gentoo Linux](https://arnaldoaparicio.github.io/gentoo-experience/)
+
+- Visit my [personal site](https://arnaldoaparicio.github.io/) to see some of my projects in greater detail!
 
 ### Connect with me:
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio-b25913224/)
