@@ -8,7 +8,7 @@
 - 🌱 I’m working with Ruby, Rails, JSON API, PostgreSQL, SQL, and more!
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" width="18"> Ask me about my experience installing Gentoo Linux on my laptop 👀 
 
-- Check out my blog posts: [Printing an Array in Ruby vs. Java](https://arnaldoaparicio.github.io/blog/how-to-print-arraylist-in-java/) | [GitHub Actions Walkthrough](https://arnaldoaparicio.github.io/blog/github-actions-p1/) | [Useful fly.io tips](https://arnaldoaparicio.github.io/blog/things-fly/) | [My initial experience with Gentoo Linux](https://arnaldoaparicio.github.io/blog/gentoo-experience/)
+- Check out my blog posts: [Printing an Array in Ruby vs. Java](https://arnaldoaparicio.github.io/blog/how-to-print-arraylist-in-java/) | [GitHub Actions Walkthrough](https://arnaldoaparicio.github.io/blog/github-actions-p1/) | [Useful fly.io tips](https://arnaldoaparicio.github.io/blog/things-fly/) | [My initial experience with Gentoo Linux](https://arnaldoaparicio.github.io/blog/gentoo-experience/) | [Proudest Moment as a Baker](https://arnaldoaparicio.github.io/proudest-baker-moment/)
 
 - Visit my [personal site](https://arnaldoaparicio.github.io/) to see some of my projects in greater detail!
 
