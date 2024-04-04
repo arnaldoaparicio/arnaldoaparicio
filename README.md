@@ -12,7 +12,7 @@
 - Visit my [personal site](https://arnaldoaparicio.github.io/) to see some of my projects in greater detail!
 
 ### Connect with me:
-[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio-b25913224/)
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-aparicio/)
 
 ### Languages, Tools and Frameworks:
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
